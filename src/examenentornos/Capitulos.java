@@ -11,6 +11,8 @@ public class Capitulos {
   private Integer sinopsis;
 
     public Temporada compuesta;
+    
+    // Todos los programas fallan 
     /**
    * 
    * @element-type Subtitulo
